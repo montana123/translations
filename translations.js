@@ -852,7 +852,7 @@ var translations = {
         consumptionSpeed: "Konsumgeschwindigkeit",
         cookingPot: "Kochtopf",
         craftedIn: "Hergestellt in",
-        currentFoodValue: "Wert des hergestellen Essens",
+        currentFoodValue: "Wert des hergestellten Essens",
         currentLvl: "Aktuelles Level",
         damageModifierChart: "Schadensmodifikationsdiagramm",
         delete: "Löschen",
@@ -2141,10 +2141,10 @@ var languages = {
         }]
     },
     de:{
-        name:"Deutsche",
+        name:"Deutsch",
         credit:[{
-            name:"Arachmeus",
-            link:"https://github.com/Arachmeus"
+            name:"montana123",
+            link:"https://github.com/montana123"
         }]
     },
     fr:{
